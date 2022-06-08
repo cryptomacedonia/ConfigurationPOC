@@ -1,0 +1,21 @@
+{
+  "name": "react-bootstrap-examples",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": ">=16.14.8",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.1.0",
+    "react-select": "^2.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
